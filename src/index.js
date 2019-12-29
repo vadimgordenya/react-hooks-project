@@ -8,7 +8,6 @@ import TopBar from 'components/topBar';
 const App = () => {
   return (
     <div>
-      <h3>Welcome to hooks</h3>
       <Router>
         <TopBar />
         <Routes />
